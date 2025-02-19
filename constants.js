@@ -4,7 +4,7 @@ console.log('intrestRate',intrestRate);
 console.log('intrestRate',intrestRate);
 
 //array examples
-let selectedColor =['red','blue'];
-    selectedColor[2]= 2;
-    console.log(selectedColor);
+// let selectedColor =['red','blue'];
+//     selectedColor[2]= 2;
+//     console.log(selectedColor);
 
