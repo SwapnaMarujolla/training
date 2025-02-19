@@ -2,10 +2,10 @@
 // assigns values to the variables
 
 
-let x = 5;  // x gets the value 
+// let x = 5;  // x gets the value 
 
-// let x = 5;
-// x += 5;  // becomes x = x + 5 (x becomes 15)
+let x = 5;
+    x += 5;  // becomes x = x + 5 (x becomes 15)
 
 // let x = 10;
 // x -= 3;  // this becomes x = x - 3 (x becomes 7)
