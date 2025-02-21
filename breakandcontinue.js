@@ -11,8 +11,8 @@ while(i < 10){
  while (i <=10){
     if (i % 2 == 0){
         i++;
-    continue;
+   
  }
- console.log(i);
+ console.log(i); continue;
  i++;
 }
