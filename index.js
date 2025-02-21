@@ -1,4 +1,4 @@
- let name = null;
-let age = 12;
-let canSheVote = age >= 18 || name ;
-console.log(canSheVote);
+for (let i=0;i<n;i++){
+    console.log("Hello Clinfinesse");
+    console.log("add second line");
+}
