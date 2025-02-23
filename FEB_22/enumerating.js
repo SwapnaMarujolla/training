@@ -4,7 +4,7 @@ const circle = {
    console.log('draw');
    }
    
-}
+};
    for (let key in circle)
    console.log(key, circle [key]);
    
