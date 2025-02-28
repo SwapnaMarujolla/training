@@ -8,10 +8,10 @@
 // and it will return 1 as its result.
 // it takes all the arguments and put them in an array.
 
-// function sum(...args){
-//     return args.reduce((a,b) => a+b);// args is an array containing all elements and reduce iterates through the array andaccumulates the result
-// }
-// console.log(sum(1,2,3,4,5,10));
+function sum(...args){
+    return args.reduce((a,b) => a+b);// args is an array containing all elements and reduce iterates through the array andaccumulates the result
+}
+console.log(sum(1,2,3,4,5,10));
 
 //EXAMPLE TO FIND THE DISCOUNT OF PRICES
 function sum(discount,...prices){
